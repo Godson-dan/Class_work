@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "$RUOA0L9",
+            "cwd": "$Recycle.Bin\\S-1-5-21-1380407252-3029445781-2564883294-1001\\$RUOA0L9",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$RUOA0L9 (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-1380407252-3029445781-2564883294-1001\\$RUOA0L9",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$RUOA0L9 (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-1380407252-3029445781-2564883294-1001\\$RUOA0L9",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dartlord",
+            "cwd": "Coding\\Projects\\Flutter\\dartlord",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dartlord (profile mode)",
+            "cwd": "Coding\\Projects\\Flutter\\dartlord",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dartlord (release mode)",
+            "cwd": "Coding\\Projects\\Flutter\\dartlord",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "learningdart",
+            "cwd": "Coding\\Projects\\Flutter\\learningdart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "learningdart (profile mode)",
+            "cwd": "Coding\\Projects\\Flutter\\learningdart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "learningdart (release mode)",
+            "cwd": "Coding\\Projects\\Flutter\\learningdart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

@@ -80,8 +80,34 @@ class MyHomePage extends StatelessWidget {
               ),
             ),
 
-            ///////Register//////////////
-            
+            //////////Register//////////
+            const SizedBox(
+              height: 40,
+            ),
+
+            Container(
+              padding: const EdgeInsets.fromLTRB(40, 10, 40, 10),
+              decoration: BoxDecoration(boxShadow: const [
+                BoxShadow(
+                  color: Colors.grey,
+                  offset: Offset(
+                    5.0,
+                    5.0,
+                  ),
+                  blurRadius: 15.0,
+                ), //BoxShadow
+                BoxShadow(
+                  color: Colors.white,
+                  offset: Offset(0.0, 0.0),
+                  blurRadius: 0.0,
+                  spreadRadius: 0.0,
+                ), //BoxShadow
+              ], borderRadius: BorderRadius.circular(10)),
+              child: const Text(
+                'Register',
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+              ),
+            ),
           ],
         ),
       ),
